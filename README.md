@@ -13,8 +13,10 @@
   ___
 
   <br/>
-  <img src="https://img.shields.io/badge/portfolio-ffffff?style=for-the-badge&logo=Notion&logoColor=black"><br/>
-  <img src="https://img.shields.io/badge/dmswls9509@gmail.com-ffffff?style=for-the-badge&logo=Gmail&logoColor=black"><br/>
+ 
+  [![Notion](https://img.shields.io/badge/portfolio-ffffff?style=for-the-badge&logo=Notion&logoColor=black)](https://www.notion.so/Portfolio-1fb6f511f632802ea0dde834fce63d70?source=copy_link)<br/>
+  [![Email](https://img.shields.io/badge/dmswls9509@gmail.com-ffffff?style=for-the-badge&logo=Gmail&logoColor=black)](mailto:dmswls9509@gmail.com)
+  
   <br/>
   
   ### 🛠 Tech Stack
